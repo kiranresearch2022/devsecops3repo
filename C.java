@@ -13,6 +13,9 @@ class C {
  method10() {
        System.out.println("in method10 class C");
     }
+method11() {
+       System.out.println("in method11 class C");
+    }
 
     
 }
